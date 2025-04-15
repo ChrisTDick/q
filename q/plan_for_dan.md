@@ -1,7 +1,3 @@
-Understood. I’ll put together tailored suggestions to complete the detailed 10-page business plan for launching a crypto options market making desk. This will include strategic options for the tech stack, jurisdiction selection, team structure, and funding avenues.
-
-I’ll follow up shortly with a structured outline and recommendations you can use to finalize the plan.
-
 # Launching a Crypto Options Market Making Desk: Key Plan Components
 
 ## Target Launch Date Options and Timeline 
